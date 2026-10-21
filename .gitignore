@@ -32,6 +32,7 @@ migrate_working_dir/
 .pub/
 /build/
 /coverage/
+/assets/
 
 # Symbolication related
 app.*.symbols
@@ -46,3 +47,4 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+assets/large_test_data.json
